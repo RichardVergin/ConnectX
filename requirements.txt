@@ -1,0 +1,12 @@
+# keras rl env
+keras_rl==0.4.2
+Keras==2.2.4
+numpy==1.18.5
+gym==0.18.0
+kaggle-environments==1.7.11
+matplotlib==3.3.4
+h5py=2.10.0
+
+# stable-baselines env
+kaggle-environments==1.7.11
+stable-baselines3==1.0
