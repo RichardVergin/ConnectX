@@ -1,2 +1,0 @@
-# ConnectX
-Kaggle Challenge: ConnectX
